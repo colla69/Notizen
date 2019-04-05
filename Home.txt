@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-05T15:33:06+02:00
+
+====== Home ======
+Created Friday 05 April 2019
+
+The Home of all information :)
+
