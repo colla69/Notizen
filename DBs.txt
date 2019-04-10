@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-10T19:33:42+02:00
+
+====== DBs ======
+Created Wednesday 10 April 2019
+
+EAV Modell 
+a data model to encode, in a space-efficient manner, entities where the number of attributes (properties, parameters) that can be used to describe them is potentially vast, but the number that will actually apply to a given entity is relatively modest.
+https://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model
+
