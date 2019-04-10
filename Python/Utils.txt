@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-10T19:48:45+02:00
+
+====== Utils ======
+Created Wednesday 10 April 2019
+
+fuzzywuzzy — fuzzy string matching like a boss ;)
+https://github.com/seatgeek/fuzzywuzzy

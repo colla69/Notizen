@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-10T19:47:38+02:00
+
+====== Python ======
+Created Wednesday 10 April 2019
+
+Notizen für allg python programming
