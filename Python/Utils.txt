@@ -7,3 +7,6 @@ Created Wednesday 10 April 2019
 
 fuzzywuzzy — fuzzy string matching like a boss ;)
 https://github.com/seatgeek/fuzzywuzzy
+
+id3 Tags — eyed3
+https://eyed3.readthedocs.io/en/latest/
