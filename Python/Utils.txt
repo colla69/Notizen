@@ -10,3 +10,6 @@ https://github.com/seatgeek/fuzzywuzzy
 
 id3 Tags — eyed3
 https://eyed3.readthedocs.io/en/latest/
+
+
+pip freeze > requirements.txt
