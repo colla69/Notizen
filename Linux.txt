@@ -9,3 +9,31 @@ FSTAB
 sudo blkid — to get info for Fstab
 
 rsync -
+
+
+###make own service 
+
+Create the file: /etc/systemd/system/jupyter.service
+
+##file##
+[Unit]
+Description=Jupyter Workplace
+
+[Service]
+Type=simple
+PIDFile=/run/jupyter.pid
+ExecStart=/home/bfortuner/anaconda3/bin/jupyter-notebook --config=/home/bfortuner/.jupyter/jupyter_notebook_config.py
+User=bfortuner
+Group=bfortuner
+WorkingDirectory=/home/bfortuner/workplace
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
+Then, run the commands
+###file###
+
+systemctl enable jupyter.service
+systemctl daemon-reload
+systemctl restart jupyter.service
