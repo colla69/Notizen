@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-16T16:04:24+02:00
+
+====== Linux ======
+Created Thursday 16 May 2019
+
+FSTAB
+sudo blkid — to get info for Fstab
+
+rsync -
